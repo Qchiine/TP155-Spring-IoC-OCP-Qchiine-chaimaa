@@ -1,0 +1,5 @@
+![01-etapes1a3-ambiguite-strategie-primary-et-alias](images/01-etapes1a3-ambiguite-strategie-primary-et-alias.png)
+![02-etape4-strategie-propriete-externe](images/02-etape4-strategie-propriete-externe.png)
+![03-etape5-profils-spring](images/03-etape5-profils-spring.png)
+![04-etape6-bascule-de-source-a-chaud](images/04-etape6-bascule-de-source-a-chaud.png)
+![05-etape7-audit-automatise-du-principe-ocp](images/05-etape7-audit-automatise-du-principe-ocp.png)
